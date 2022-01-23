@@ -45,7 +45,7 @@
           "
         >
           <p class="mb-3">
-            Copyright @ Crater Invoice, Inc. {{ new Date().getFullYear() }}
+            Copyright @ DRIVI {{ new Date().getFullYear() }}
           </p>
         </div>
       </div>
@@ -77,39 +77,6 @@
       <LoginBackgroundOverlay class="absolute h-full w-full right-[7.5%]" />
 
       <div class="pl-20 xl:pl-0 relative z-50">
-        <h1
-          class="
-            hidden
-            mb-3
-            text-3xl
-            leading-normal
-            text-left text-white
-            xl:text-5xl xl:leading-tight
-            md:none
-            lg:block
-          "
-        >
-          <b class="font-bold">Simple Invoicing</b> <br />
-          for Individuals & <br />
-          Small Businesses <br />
-        </h1>
-        <p
-          class="
-            hidden
-            text-sm
-            not-italic
-            font-normal
-            leading-normal
-            text-left text-gray-100
-            xl:text-base xl:leading-6
-            md:none
-            lg:block
-          "
-        >
-          Crater helps you track expenses, record payments & generate beautiful
-          <br />
-          invoices & estimates. <br />
-        </p>
       </div>
 
       <LoginBottomVector
